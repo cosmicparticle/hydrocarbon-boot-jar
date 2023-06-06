@@ -17,6 +17,6 @@
 
 > 邮箱：kuangkie@126.com  
 > QQ：1048232397  
-> 网址：[kuangkie](https://help.kuangkie.com/ kuangkie)  
+> 网址：[kuangkie](https://help.kuangkie.com/)  
 
      
