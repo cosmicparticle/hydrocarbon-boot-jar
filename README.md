@@ -15,8 +15,8 @@
 
 ### 联系我们
 
-> 邮箱：kuangkie@126.com
-> QQ：1048232397
-> 网址：[kuangkie](https://help.kuangkie.com/)
+> 邮箱：kuangkie@126.com  
+> QQ：1048232397  
+> 网址：[kuangkie](https://help.kuangkie.com/ kuangkie)  
 
      
