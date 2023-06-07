@@ -1,5 +1,5 @@
 # hydrocarbon-boot-jar
-页面配置工具。由Hydrocarbon-boot项目导出的可运行的Springboot Jar
+页面配置工具。一个打包好的可直接运行的SpringBoot项目。由Hydrocarbon-boot项目导出的可运行的Springboot Jar
 
 ## 使用说明
 ### 准备工作
