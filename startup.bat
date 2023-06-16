@@ -1,3 +1,4 @@
 cd %~dp0
-java -Dloader.path=./lib -jar  ./hydrocarbon-boot.jar
+chcp 65001
+java -DFile.encoding=utf-8 -Dloader.path=./lib -jar  ./hydrocarbon-boot.jar
 cmd
